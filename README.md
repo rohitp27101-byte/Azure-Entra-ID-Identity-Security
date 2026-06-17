@@ -102,8 +102,3 @@ The following were studied as part of this learning path and are planned for a f
 - Multi-Factor Authentication (MFA) enforcement on user accounts
 - Conditional Access Policies for adaptive, risk-based security
 
----
-
-## 📝 Learnings
-
-Detailed notes on challenges faced and key takeaways are documented in [`learnings.md`](./learnings.md).
